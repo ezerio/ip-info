@@ -85,7 +85,7 @@ Coordenadas desde las cuales se calcula la distancia del país de origen de la i
 
 ## DER
 
-![der](img "https://github.com/ezerio/ip-info/blob/master/docs/ip-info-der.png")
+![der](https://github.com/ezerio/ip-info/blob/master/docs/ip-info-der.png)
 
 ## Apis externas
 
