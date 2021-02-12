@@ -83,6 +83,10 @@ Coordenadas desde las cuales se calcula la distancia del país de origen de la i
 `ipinfo.origin.latitude`
 `ipinfo.origin.longitude`
 
+## DER
+
+![der](img "https://github.com/ezerio/ip-info/blob/master/docs/ip-info-der.png")
+
 ## Apis externas
 
 Geolocalización de IPs: https://ip2country.info
